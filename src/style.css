@@ -172,4 +172,24 @@ img {
   .app-photo {
     display: none;
   }
+
+  h2 {
+    font-size: 34px;
+  }
+
+  h1 {
+    font-size: 68px;
+  }
+
+  h3 {
+    font-size: 15px;
+  }
+
+  p {
+    font-size: 14px;
+  }
+
+  .paragraph {
+    text-align: center;
+  }
 }
